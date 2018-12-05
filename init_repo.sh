@@ -18,5 +18,12 @@ git init
 git config user.name "Example"
 git config user.email "Example@example.com"
 
+# Asks what code editor to use to open the
+echo "Open with: code or atom? (Note: Needs to be in PATH)"
+read ide
+
+# Open the repo with their IDE choice
+$ide .
+
 # Sign off :)
 Echo "Done! Happy Coding - @MadeByCollins :)"
