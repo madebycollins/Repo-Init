@@ -7,4 +7,5 @@ I work on personal and work projects using git. And it's annoying to have to set
 ## How to use
 - Clone or download the repo
 - Place the **init_repo.sh** inside the root of your work folder
-- Everytime you start working on a new project, run this file to create and initialise the repo for you
+- Replace the example@example.com email & name with your work email and name
+- Run the file each time you begin working on a new work or personal project to have the directory & repo initialised for you
